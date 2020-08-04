@@ -6,6 +6,8 @@ import datetime
 import logging
 import os
 
+print('Hello world')
+
 
 def to_csv(rowdict):
   # Pull columns from BQ and create a line
